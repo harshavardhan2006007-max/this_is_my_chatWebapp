@@ -1,0 +1,35 @@
+div{
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+}
+body{
+    background:linear-gradient(red,green);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+label{
+    position: relative;
+    size: 10px;
+    text-align: center;
+    size: 100%;
+    color: greenyellow;
+    font-style: italic;
+    text-size-adjust: initial;
+}
+/*input{
+    align-items: center;
+} */
+ button{
+    text-align: center;
+    cursor: pointer;
+ }
+ button:hover{
+    color: red;
+ }
+ input{
+    text-align: center;
+ }
